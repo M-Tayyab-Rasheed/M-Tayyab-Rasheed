@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x350/000000/FFFFFF?text=Your+Banner+Image+Here" alt="Banner Image" width="700">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=300&section=header&text=M.%20Tayyab%20Rasheed&fontSize=80&fontColor=ffffff&desc=Software%20Developer&descSize=25&descAlignY=65" alt="Dynamic Banner" width="100%">
   <h1>M Tayyab Rasheed</h1>
 </div>
 
