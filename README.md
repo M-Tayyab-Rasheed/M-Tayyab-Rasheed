@@ -1,5 +1,4 @@
-<div align="center">
-<img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=800&auto=format&fit=crop" alt="Cyberpunk Matrix Banner" width="800">
+<div align="center"><img src="https://images.unsplash.com/photo-1614850715649-1d0106293bd1?q=80&w=800&auto=format&fit=crop" alt="Synthwave Banner" width="800">
   <h1>M Tayyab Rasheed</h1>
 </div>
 
