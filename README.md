@@ -20,3 +20,19 @@
 
 * Currently working on **Desi Basket (Semester Project)** (Will share soon :P)
 * Learning & experimenting **Python & Next js**
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter" width="40" height="40"/>
+</a>
+
+---
