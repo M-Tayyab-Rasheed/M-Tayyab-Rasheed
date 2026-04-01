@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <strong>Final Year CS @ [Your University] | AI/ML • Cybersecurity</strong>
+  <strong> CS @ FAST NUCES </strong>
 </div>
 
 ---
@@ -18,6 +18,5 @@
 ![Photographer](https://img.shields.io/badge/-Photographer-black?style=flat-square) 
 ![Tech Enthusiast](https://img.shields.io/badge/-Tech%20Enthusiast-black?style=flat-square)
 
-* 🔭 I’m currently working on **[Your Project Name]**
-* 🌱 I’m currently learning **[Skill/Technology]**
-* 📫 How to reach me: **[Your Email or LinkedIn link]**
+* Currently working on **Desi Basket (Semester Project)** (Will share soon :P)
+* Learning & experimenting **Python & Next js**
