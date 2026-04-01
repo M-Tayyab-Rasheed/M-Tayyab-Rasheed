@@ -1,4 +1,5 @@
-<div align="center"><img src="https://images.unsplash.com/photo-1614850715649-1d0106293bd1?q=80&w=800&auto=format&fit=crop" alt="Synthwave Banner" width="800">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Software%20Developer&fontSize=70&fontColor=ffffff" alt="Dynamic Banner" width="100%">
   <h1>M Tayyab Rasheed</h1>
 </div>
 
