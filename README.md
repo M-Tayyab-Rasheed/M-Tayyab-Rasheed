@@ -40,7 +40,7 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,nextjs,vite,react,github" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,nextjs,vite,react,mongodb,github" alt="My Skills" />
 </p>
 
 ---
