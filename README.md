@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://via.placeholder.com/800x350/000000/FFFFFF?text=Your+Banner+Image+Here" alt="Banner Image" width="700">
 
-<!--
-**M-Tayyab-Rasheed/M-Tayyab-Rasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>M Tayyab Rasheed</h1>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <strong>Final Year CS @ [Your University] | AI/ML • Cybersecurity</strong>
+</div>
+
+---
+
+## About Me
+
+![Programmer](https://img.shields.io/badge/-Programmer-black?style=flat-square) 
+![Photographer](https://img.shields.io/badge/-Photographer-black?style=flat-square) 
+![Tech Enthusiast](https://img.shields.io/badge/-Tech%20Enthusiast-black?style=flat-square)
+
+* 🔭 I’m currently working on **[Your Project Name]**
+* 🌱 I’m currently learning **[Skill/Technology]**
+* 📫 How to reach me: **[Your Email or LinkedIn link]**
