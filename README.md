@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=300&section=header&text=M.%20Tayyab%20Rasheed&fontSize=80&fontColor=ffffff&desc=Software%20Developer&descSize=25&descAlignY=65" alt="Dynamic Banner" width="100%">
+<img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=800&auto=format&fit=crop" alt="Cyberpunk Matrix Banner" width="800">
   <h1>M Tayyab Rasheed</h1>
 </div>
 
