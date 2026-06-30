@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/muhammad-tayyab-rasheed-717bb2252/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="rasheedtayyab463@gmail.com" target="_blank">
+<a href="mtayyabrasheed803@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
 </a>
 <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
